@@ -1,0 +1,1 @@
+To open website on local system, start the apache server and run index.php from the main folder.
