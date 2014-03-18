@@ -55,6 +55,8 @@
 								<li><a href="/prywatnosc">Prywatność</a></li>
 								<li><a href="/regulamin">Regulamin</a></li>
 								<li><a href="/pomoc">Pomoc</a></li>
+								<li class="divider"></li>
+								<li><a href="" data-toggle="modal" data-target="#myModal">Autorzy projektu</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -65,14 +67,38 @@
 		</div>
 	</div>
 
+	<!-- Modal -->
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title" id="myModalLabel">Autorzy projektu:</h4>
+				</div>
+				<div class="modal-body">
+						Front-end: Marcin Trzeciak<br>
+						Back-end: Jacek Fohs<br>
+						<br>
+						Also:<br>
+							Wojciech Ostrowski<br>
+							Maciej Zawieja<br>
+							Kamil Butkiewicz<br>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Zamknij</button>
+				</div>
+			</div>
+		</div>
+	</div>
 
 <!-- ######################################################################### -->
 
     <?php include('include/main.php'); ?>
 
 <!-- ######################################################################### -->
-
+ 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
+
   </body>
 </html>
