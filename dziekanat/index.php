@@ -11,6 +11,8 @@
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="bootstrap/css/carousel.css" rel="stylesheet">
 	<style type="text/css">
+		.modal { overflow-y: auto; } /*modal jumping page problem solved */
+		html { overflow-y: scroll; } /*  ----||----  */
 		body { padding-top: 70px; }
 		#myCarousel { margin-top: -70px; }
 	</style>
