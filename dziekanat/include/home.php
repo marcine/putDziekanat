@@ -11,7 +11,7 @@
 			<div class="container">
 				<div class="carousel-caption">
 					<h1>Politechnika Poznańska</h1>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elementum aliquet lacus eu vestibulum. Ut sit amet turpis interdum, lacinia metus id, tristique nisl. In accumsan justo purus, et facilisis urna congue nec. Nullam ut felis ornare tortor adipiscing posuere et id erat. Nullam venenatis nisl et lectus consectetur tincidunt.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elementum aliquet lacus eu vestibulum. Ut sit amet turpis interdum, lacinia metus id, tristique nisl. In accumsan justo purus, et facilisis urna congue nec.</p>
 					<p><a class="btn btn-lg btn-primary" href="#" role="button">Czytaj więcej</a></p>
 				</div>
 			</div>
@@ -21,7 +21,7 @@
 			<div class="container">
 				<div class="carousel-caption">
 					<h1>Wydział Elektryczny</h1>
-					<p>Praesent varius est non vestibulum ornare. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean id dolor eget nunc sagittis rhoncus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque pellentesque scelerisque ligula, a rhoncus justo scelerisque at. Cras vehicula quam quis purus ullamcorper, id vehicula diam rhoncus. Proin suscipit a lacus quis molestie. Sed et interdum odio. Suspendisse potenti. Maecenas dolor neque, aliquam in iaculis id, volutpat a ante. Pellentesque tempor facilisis est et scelerisque. Morbi a risus ut arcu malesuada volutpat.</p>
+					<p>Praesent varius est non vestibulum ornare. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean id dolor eget nunc sagittis rhoncus. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
 					<p><a class="btn btn-lg btn-primary" href="#" role="button">Czytaj więcej</a></p>
 				</div>
 			</div>
@@ -61,5 +61,5 @@
 	</div><!-- /.row -->
 
 	<?php include('include/htdocs/footer.php'); ?>
-
+	
 </div>
